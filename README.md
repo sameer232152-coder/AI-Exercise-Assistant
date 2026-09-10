@@ -1,48 +1,47 @@
 # AI-Exercise-Assistant
-# 🏋️ AI Exercise Assistant
 
-An AI-powered exercise assistant that helps users perform exercises with proper posture and technique using **Computer Vision and Pose Estimation**.
+An AI-powered exercise assistant that helps users perform exercises with proper posture and technique using Computer Vision and Pose Estimation.
 
-## 📌 Project Overview
+## Project Overview
 
-**AI Exercise Assistant** is a computer-vision-based fitness application designed to analyze a user's exercise movements through a camera.
+AI Exercise Assistant is a computer-vision-based fitness application designed to analyze a user's exercise movements through a camera.
 
 The system detects human body posture using pose estimation and provides feedback about exercise form. It can also count repetitions and help users perform exercises more accurately.
 
-The project is developed as a **B.Tech Computer Science and Engineering Minor Project** by a team of four students.
+The project is developed as a B.Tech Computer Science and Engineering Minor Project by a team of four students.
 
-## 🎯 Objectives
+## Objectives
 
-* Detect the user's body posture using a camera.
-* Identify and track body joints.
-* Count exercise repetitions automatically.
-* Analyze exercise posture and movement.
-* Provide real-time feedback to the user.
-* Create an easy-to-use AI-based fitness assistant.
+- Detect the user's body posture using a camera.
+- Identify and track body joints.
+- Count exercise repetitions automatically.
+- Analyze exercise posture and movement.
+- Provide real-time feedback to the user.
+- Create an easy-to-use AI-based fitness assistant.
 
-## ✨ Key Features
+## Key Features
 
-* 📷 Real-time camera-based exercise detection
-* 🧍 Human pose estimation
-* 🔢 Automatic repetition counting
-* 📊 Exercise performance tracking
-* ⚠️ Incorrect posture detection
-* 💡 Real-time exercise feedback
-* 🏋️ Support for multiple exercises
+- Real-time camera-based exercise detection
+- Human pose estimation
+- Automatic repetition counting
+- Exercise performance tracking
+- Incorrect posture detection
+- Real-time exercise feedback
+- Support for multiple exercises
 
-## 🏃 Supported Exercises
+## Supported Exercises
 
 Initially, the project can support:
 
-* Squats
-* Push-ups
-* Bicep Curls
-* Jumping Jacks
-* Lunges
+- Squats
+- Push-ups
+- Bicep Curls
+- Jumping Jacks
+- Lunges
 
 More exercises can be added in future versions.
 
-## 🧠 How It Works
+## How It Works
 
 ```text
 User
@@ -66,44 +65,44 @@ Posture Analysis
 Feedback to User
 ```
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Programming Language
 
-* Python
+- Python
 
 ### Computer Vision
 
-* OpenCV
-* MediaPipe
+- OpenCV
+- MediaPipe
 
 ### AI / Machine Learning
 
-* Pose Estimation
-* Machine Learning / Rule-Based Classification
+- Pose Estimation
+- Machine Learning / Rule-Based Classification
 
 ### Frontend
 
-* HTML
-* CSS
-* JavaScript
-* React.js *(if used)*
+- HTML
+- CSS
+- JavaScript
+- React.js (if used)
 
 ### Backend
 
-* Flask / FastAPI *(if used)*
+- Flask / FastAPI (if used)
 
 ### Database
 
-* MySQL / MongoDB *(if required)*
+- MySQL / MongoDB (if required)
 
 ### Development Tools
 
-* VS Code
-* Git
-* GitHub
+- VS Code
+- Git
+- GitHub
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 AI-Exercise-Assistant/
@@ -133,16 +132,16 @@ AI-Exercise-Assistant/
 └── README.md
 ```
 
-## 👥 Team Members
+## Team Members
 
-| Name            | Enrollment No. | Responsibility              |
-| --------------- | -------------- | --------------------------- |
-| Sameer Pramanik | AJU/232152     | Project Lead / AI & Backend |
-| Abhishek Das    | AJU/232242     | Frontend / UI               |
-| Bhima Mukhi     | AJU/232159     | Computer Vision / Database  |
-| Rahul Kumar     | AJU/232006     | Testing / Documentation     |
+| Name | Enrollment No. | Responsibility |
+| --- | --- | --- |
+| Sameer Pramanik | AJU/232152 | Project Lead / AI & Backend |
+| Abhishek Das | AJU/232242 | Frontend / UI |
+| Bhima Mukhi | AJU/232159 | Computer Vision / Database |
+| Rahul Kumar | AJU/232006 | Testing / Documentation |
 
-## 🔄 Team Development Workflow
+## Team Development Workflow
 
 Since all four team members are working from different locations, the project will be developed collaboratively using Git and GitHub.
 
@@ -174,9 +173,9 @@ git commit -m "Add exercise detection"
 git push origin feature/your-feature
 ```
 
-Then create a **Pull Request** on GitHub and merge it into `main` after review.
+Then create a Pull Request on GitHub and merge it into `main` after review.
 
-## 🚀 Installation
+## Installation
 
 ### 1. Clone the Repository
 
@@ -217,36 +216,36 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 📸 Screenshots
+## Screenshots
 
 Screenshots of the application will be added here after development.
 
-## 📊 Future Scope
+## Future Scope
 
-* Add more exercises.
-* Improve posture detection accuracy.
-* Add personalized workout plans.
-* Add user profiles and progress tracking.
-* Add voice-based feedback.
-* Develop a mobile application.
-* Integrate advanced AI/ML models.
-* Add cloud-based user data storage.
+- Add more exercises.
+- Improve posture detection accuracy.
+- Add personalized workout plans.
+- Add user profiles and progress tracking.
+- Add voice-based feedback.
+- Develop a mobile application.
+- Integrate advanced AI/ML models.
+- Add cloud-based user data storage.
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This application is developed for educational and project purposes. It is not a substitute for professional medical or fitness advice.
 
-## 👨‍🏫 Guided By
+## Guided By
 
-**Prof. Dr. Dilip Kumar**
+Prof. Dr. Dilip Kumar
 
-## 🎓 Institution
+## Institution
 
-**Arka Jain University, Jamshedpur**
+Arka Jain University, Jamshedpur
 
-**B.Tech – Computer Science and Engineering**
+B.Tech – Computer Science and Engineering
 
-**Academic Session: 2026–2027**
+Academic Session: 2026–2027
 
 ---
 
